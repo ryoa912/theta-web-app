@@ -1,10 +1,9 @@
 # theta-web-app
-Ricoh Theta向けのWebアプリ
-Web app for Ricoh theta.
 
-====
+---
 
 ## Overview
-  
+
+Ricoh Theta向けのWebアプリ
 This is GitHub's repo. for web app for Ricoh theta.
 
